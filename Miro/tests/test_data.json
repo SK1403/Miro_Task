@@ -1,0 +1,10 @@
+{"initiator_id":3074457347135400447,"timestamp":"2020-01-08T06:21:14.000Z","event":"registered"}
+{"initiator_id":3074457345816644047,"timestamp":"2020-01-08T06:24:42.000Z","event":"app_loaded","device_type":"desktop","browser_version":"79.0"}
+{"initiator_id":3074457346184244610,"timestamp":"2020-01-08T06:25:10.000Z","event":"app_loaded","device_type":"tablet-app","browser_version":""}
+{"initiator_id":3074457347135385819,"timestamp":"2020-01-08T06:25:11.000Z","event":"app_loaded","device_type":"desktop","browser_version":"79.0"}
+{"initiator_id":3074457347136974015,"timestamp":"2020-01-08T17:55:42.000Z","event":"registered"}
+{"initiator_id":3074457347137376322,"timestamp":"2020-01-08T17:59:53.000Z","event":"app_loaded","device_type":"desktop","browser_version":"19.12"}
+{"initiator_id":3074457346947602119,"timestamp":"2020-01-08T17:54:45.000Z","event":"app_loaded","device_type":"desktop","browser_version":"18.18362"}
+{"initiator_id":3074457346246864126,"timestamp":"2020-01-08T06:27:23.000Z","event":"app_loaded","device_type":"desktop","browser_version":"78.0"}
+{"initiator_id":3074457346766740385,"timestamp":"2020-01-08T17:59:08.000Z","event":"app_loaded","device_type":"desktop","browser_version":"13.0"}
+{"initiator_id":3074457347138054179,"timestamp":"2020-01-08T23:49:14.000Z","event":"registered"}
